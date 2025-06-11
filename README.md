@@ -43,7 +43,7 @@ Criar um painel visual que permita a segmentação e interpretação dos leads c
 
 ## 🔗 Como visualizar o projeto
 
-1. Baixe o arquivo [Projeto+2+-+Perfil+dos+leads.xlsx]()
+1. Baixe o arquivo [Projeto+2+-+Perfil+dos+leads.xlsx](ithub.com/The-Kermit/Perfil-dos-leads/blob/main/Projeto%2B2%2B-%2BPerfil%2Bdos%2Bleads.xlsx)
 2. Abra com Excel ou software compatível (LibreOffice, Google Sheets)
 
 ---
